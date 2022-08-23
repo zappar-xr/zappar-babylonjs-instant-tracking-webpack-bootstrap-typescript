@@ -1,7 +1,7 @@
 import * as BABYLON from 'babylonjs';
 import * as ZapparBabylon from '@zappar/zappar-babylonjs';
-
 import "./style.css";
+
 
 
 // Setup BabylonJS in the usual way
